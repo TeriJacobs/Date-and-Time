@@ -1,0 +1,10 @@
+body{
+    margin:auto;
+    display: block;
+    text-align: center;
+}
+
+span{
+ font-weight: bold;
+ color: green
+}
